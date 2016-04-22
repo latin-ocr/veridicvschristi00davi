@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veridicvschristi00davi/veridicvschristi00davi_0007.png"; bbox 0 0 2263 3214; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 181 226 187 743">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 181 226 187 743">
+     <span class='ocr_line' id='line_1_1' title="bbox 181 226 187 743; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 181 226 187 743; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 681 950 1631 1105">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 681 950 1632 1105">
+     <span class='ocr_line' id='line_1_2' title="bbox 681 950 1566 1030; baseline -0.025 1"><span class='ocrx_word' id='word_1_2' title='bbox 681 958 961 1030; x_wconf 62' lang='lat' dir='ltr'>Austore</span> <span class='ocrx_word' id='word_1_3' title='bbox 979 971 1031 1024; x_wconf 92' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1040 971 1315 1024; x_wconf 71' lang='lat' dir='ltr'>IOANNE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1332 950 1566 1023; x_wconf 78' lang='lat' dir='ltr'>DAvm,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 693 1027 1631 1105; baseline -0.02 -10"><span class='ocrx_word' id='word_1_6' title='bbox 693 1033 1001 1095; x_wconf 80' lang='lat' dir='ltr'>Sacerdote</span> <span class='ocrx_word' id='word_1_7' title='bbox 1023 1032 1330 1088; x_wconf 71' lang='lat' dir='ltr'>Societaems</span> <span class='ocrx_word' id='word_1_8' title='bbox 1343 1027 1554 1083; x_wconf 80' lang='lat' dir='ltr'><strong>IESV.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1582 1082 1631 1105; x_wconf 40' lang='lat' dir='ltr'>lm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2031 209 2051 2396">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2031 209 2051 2396">
+     <span class='ocr_line' id='line_1_4' title="bbox 2031 209 2051 2396; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 2031 209 2051 2396; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 176 79 2111 2899">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 176 79 2111 2899">
+     <span class='ocr_line' id='line_1_5' title="bbox 176 79 2111 2899; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 176 79 2111 2899; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veridicvschristi00davi/veridicvschristi00davi_0635.png"; bbox 0 0 2181 3209; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 131 509 1909 868">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 131 509 1909 868">
+     <span class='ocr_line' id='line_1_1' title="bbox 280 509 1909 650; baseline -0.008 -3"><span class='ocrx_word' id='word_1_1' title='bbox 280 518 1047 647; x_wconf 73' lang='lat' dir='ltr'>Concentus</span> <span class='ocrx_word' id='word_1_2' title='bbox 1094 509 1687 640; x_wconf 73' lang='lat' dir='ltr'>Musteus</span> <span class='ocrx_word' id='word_1_3' title='bbox 1905 648 1909 650; x_wconf 45' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 131 721 1434 868; baseline -0.01 3"><span class='ocrx_word' id='word_1_4' title='bbox 131 721 133 723; x_wconf 37' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 478 776 1434 868; x_wconf 76' lang='lat' dir='ltr'>VERSIBVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 26 992 2132 1465">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 26 992 2132 1465">
+     <span class='ocr_line' id='line_1_3' title="bbox 26 992 2132 1208; baseline -0.012 -4"><span class='ocrx_word' id='word_1_6' title='bbox 26 1023 200 1203; x_wconf 93' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_7' title='bbox 296 1025 456 1208; x_wconf 89' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 578 1009 931 1192; x_wconf 85' lang='lat' dir='ltr'>RI</span> <span class='ocrx_word' id='word_1_9' title='bbox 1053 1004 1237 1181; x_wconf 93' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_10' title='bbox 1363 1002 1433 1183; x_wconf 87' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_11' title='bbox 1553 992 2132 1182; x_wconf 86' lang='lat' dir='ltr'>CI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 215 1318 1738 1465; baseline -0.008 -1"><span class='ocrx_word' id='word_1_12' title='bbox 215 1318 1738 1465; x_wconf 77' lang='lat' dir='ltr'>CHRISTIANI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 441 1600 1307 1743">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 441 1600 1307 1743">
+     <span class='ocr_line' id='line_1_5' title="bbox 441 1600 1307 1743; baseline -0.015 -44"><span class='ocrx_word' id='word_1_13' title='bbox 441 1610 452 1617; x_wconf 48' lang='lat'>&#39;⁴</span> <span class='ocrx_word' id='word_1_14' title='bbox 630 1600 1307 1743; x_wconf 78' lang='lat' dir='ltr'>coaptatus</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
